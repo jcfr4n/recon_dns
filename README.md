@@ -6,6 +6,19 @@
 
 ---
 
+> ⚠️ **Atención:**  
+> Debes otorgar permisos de ejecución al script antes de usarlo:  
+> ```bash
+> chmod +x recon_domain.sh
+> ```
+> Luego podrás ejecutarlo con:  
+> ```bash
+> ./recon_domain.sh
+> ```
+>
+
+---
+
 ## 📖 Descripción
 
 `recon_domain.sh` es un script en **Bash** para realizar una recopilación de información inicial (reconocimiento pasivo) sobre un dominio.  
